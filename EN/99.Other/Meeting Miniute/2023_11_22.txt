@@ -1,0 +1,29 @@
+1.Title : Pages for Borrowers(Users)
+Speaker:  NNK
+
+1.Home page 			=>	intro to our website, new added apartments or houses, suggestions (filtered by Townships), search menu (by Township) & double-filtered search menu
+					(if User search by Township, suggests in-accord apartments or houses, and also Google Map).
+2.See Apartments(by Owners)	=> 	show all apartments (posted by Owners), double-filtered search menu
+3.See Apartments(by Agents) 	=> 	show all apartments (posted by Agents), double-filtered search menu
+4.Profile			=>	can see one's data information that are filled on the initial sign-up form, SEE WISHLISTS -> can see search history & saved apartments,
+					can fill customize-search form so that our system will notify to the user whenever in-accord appartments are added.
+
+======================
+
+2.Title : Accessbility of Each Scope
+Speaker:  SLA
+
+1.Owners can see Agents' posts so that they can know up-to-date rent price corresponding to each Township.
+2.But, Agents can see only Agents' posts, so that they can't hocus to the Borrowers(Users) or Owners.
+3.Borrowers(Users) cannot post on our website. They can only search apartments, see some supported-features.
+
+======================
+
+3.Title : Admin Dashboard
+Speaker:  SLA, NNK
+
+1. Overall view menu	=>	show with Graphs & Chars (mostly rent-out townships, monthly new user lists, etc.)
+2. Filter & check menu	=>	1) Approve/Denie -> can control posts by apartment owners
+				2) Reports List -> can read Reports by Borrowers
+				3) Feedbacks -> can read suggestions by everyones
+3. Acc Identifications 	=> 	can check, control and approve new users accounts
